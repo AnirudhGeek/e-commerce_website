@@ -86,6 +86,9 @@ Our project is an ONDC (Open Network for Digital Commerce) site integrated with 
     ```bash
     npm run prepare
     ```
+    ```bash
+    npm install --save-dev @babel/plugin-proposal-private-property-in-object
+    ```
 4. **Run the development server:** 
     ```bash
     npm start
